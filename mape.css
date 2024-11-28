@@ -1,0 +1,20 @@
+
+#map {
+    height: 100vh;
+}
+
+/* Marker styling */
+.markeris {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.markeris.dzeltens {
+    background-color: #f0d435;
+}
+
+.markeris.zils {
+    background-color: #3737fc;
+}
